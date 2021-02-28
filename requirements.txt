@@ -21,7 +21,7 @@ numpy ==1.19.2
 
 nums-from-string==0.1.2
 
-opencv==4.0.1
+py-opencv==4.0.1
 
 
 
