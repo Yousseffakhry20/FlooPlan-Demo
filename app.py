@@ -42,7 +42,7 @@ class MyForm(FlaskForm):
 #     return "Hello World"
 
 
-@app.route('/upload_image', methods=['GET', 'POST'])
+@app.route('/', methods=['GET', 'POST'])
 def upload_image():
     form = MyForm()
 
