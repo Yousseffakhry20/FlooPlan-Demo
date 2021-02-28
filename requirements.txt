@@ -1,13 +1,5 @@
 
 
-appdirs==1.4.4
-argh==0.26.2
-
-astropy @ file:///C:/ci/astropy_1606904903785/work
-async-generator @ file:///home/ktietz/src/ci/async_generator_1611927993394/work
-atomicwrites==1.4.0
-attrs @ file:///tmp/build/80754af9/attrs_1604765588209/work
-autopep8 @ file:///tmp/build/80754af9/autopep8_1613246362269/work
 Babel @ file:///tmp/build/80754af9/babel_1607110387436/work
 backcall @ file:///home/ktietz/src/ci/backcall_1611930011877/work
 backports.functools-lru-cache @ file:///tmp/build/80754af9/backports.functools_lru_cache_1605305165209/work
