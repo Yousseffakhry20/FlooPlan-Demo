@@ -37,7 +37,12 @@ configure_uploads(app, images)
 class MyForm(FlaskForm):
     image = FileField('image')
 
-@app.route('/', methods=['GET', 'POST'])
+# @app.route('/')
+# def home():
+#     return "Hello World"
+
+
+@app.route('/upload_image', methods=['GET', 'POST'])
 def upload_image():
     form = MyForm()
 
